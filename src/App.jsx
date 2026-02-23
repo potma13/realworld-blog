@@ -28,7 +28,7 @@ function App() {
   }, [token, hydrate, logout]);
 
   return (
-    <BrowserRouter basename="/my-blog">
+    <BrowserRouter>
       <Routes>
 
         {/* layout */}
