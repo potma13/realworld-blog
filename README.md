@@ -29,7 +29,7 @@ A blog platform built with React, featuring authentication, article management, 
 ## 📦 Installation
 
 1. Clone the repository:
-- git clone https://github.com/potma13/MyRealWorldBlog.git
+- git clone https://github.com/potma13/realworld-blog.git
 - cd realworld-blog
 2. Install dependencies:
 - npm install
